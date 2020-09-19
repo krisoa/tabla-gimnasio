@@ -2,13 +2,17 @@ table ,th, td{
     border: 1px solid black;
     border-collapse: collapse;
     text-align: left;
+    font-family: 'Courier New', Courier, monospace;
 }
 th, td {
     padding: 9px;
 }
 th {
-    background-color: rgb(160, 170, 170);
+    background-color: rgba(148, 160, 160, 0.747);
 }
 table{
     width: 100%;
+}
+td {
+    width: 130px;
 }
