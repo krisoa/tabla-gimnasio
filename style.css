@@ -16,3 +16,7 @@ table{
 td {
     width: 130px;
 }
+h1 ,h2 {
+    text-align: center;
+    color: rgba(255, 0, 0, 0.671);
+}
