@@ -16,10 +16,22 @@ table{
 td {
     width: 130px;
 }
-h1 ,h2 {
+h1  {
+    margin-top: 15px ;
     text-align: center;
-    color: rgba(255, 0, 0, 0.671);
+    color: rgb(17,69,79);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 img{
     margin-left: 550px;
+}
+table{
+    margin-left: 350px ;
+}
+.factura {
+       margin-left: 350px;
+}
+button{
+    margin-left:220px ;
+  
 }

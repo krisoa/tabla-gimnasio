@@ -11,5 +11,20 @@ h1{
 }
 th{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: rgb(16, 48, 54) ;
+    color: rgb(17,69,79);
+    background-color: rgb(212, 143, 39);
+    padding: 9px;
+}
+audio{
+    width: 150px;
+    height: 30px;
+    margin-left: 1000px;
+}
+a{
+    text-decoration: none;
+}
+button{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    text-decoration: none;
 }
