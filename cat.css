@@ -1,11 +1,15 @@
 
 body{
     width: 1030px;
-    background-color:rgb(160,171,170) ;
+  
 }
 
 h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
     color: rgb(17,69,79);
+}
+th{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(16, 48, 54) ;
 }
