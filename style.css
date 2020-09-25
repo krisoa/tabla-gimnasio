@@ -1,37 +1,8 @@
-table ,th, td{
-    border: 1px solid black;
-    border-collapse: collapse;
-    text-align: left;
-    font-family: 'Courier New', Courier, monospace;
+table,th,td {
+font-family: 'Courier New', Courier, monospace;
+border: 1px solid black;
+border-collapse: collapse;
 }
-th, td {
-    padding: 9px;
-}
-th {
-    background-color: rgba(148, 160, 160, 0.747);
-}
-table{
-    width: 100%;
-}
-td {
-    width: 130px;
-}
-h1  {
-    margin-top: 15px ;
-    text-align: center;
-    color: rgb(17,69,79);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-img{
-    margin-left: 550px;
-}
-table{
-    margin-left: 350px ;
-}
-.factura {
-       margin-left: 350px;
-}
-button{
-    margin-left:220px ;
-  
+th{
+    background-color: grey;
 }
